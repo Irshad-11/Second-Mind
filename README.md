@@ -30,7 +30,7 @@
 
 ### What is Second Mind?
 
-**Second Mind** is a personalized learning management system designed by [me](https://www.linkedin.com/in/irshad-hossain-785548323/), for students. It's a single, cohesive solution to a common problem: the chaotic conflict between your academic syllabus and the essential skills you need to learn on your own (like web development, DSA, and side projects).
+**Second Mind** is a personalized learning management system designed by [me](https://www.linkedin.com/in/irshad-hossain-785548323/), for myself. It's a single, cohesive solution to a common problem: the chaotic conflict between your academic syllabus and the essential skills you need to learn on your own (like web development, DSA, and side projects).
 
 Forget juggling multiple apps and notebooks. Second Mind is your personal command center where you can manage your classes, plan for exams, take notes, and organize your self-planning—all in one place. It's not just a tool; it's a second brain built to sync up your entire academic journey.
 
